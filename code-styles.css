@@ -1,0 +1,9 @@
+/*one line style*/
+.someDiv{ background:red; padding:2em; border:1px solid black; }
+
+/*each style gets its one line*/
+.someDiv{
+  background: red;
+  padding: 2em;
+  border: 1px solid black;
+}
