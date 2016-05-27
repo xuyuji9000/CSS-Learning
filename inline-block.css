@@ -1,0 +1,10 @@
+/* inline elements */
+span, a, strong, em, img, br, input, abbr, acronym{
+
+}
+
+
+/* block elements */
+div, h1, h2, h3, h4, h5, h6, p, ul, li, table, blockquote, pre, form{
+	
+}
